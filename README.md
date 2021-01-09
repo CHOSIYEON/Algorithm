@@ -1,4 +1,12 @@
 # Algorithm
-This repository is for algorithm study that prepares for coding tests
+* 코딩 테스트 준비용
+* 백준 알고리즘 문제 풀이 
+* 커밋 메세지는 날씨 + 문제 분류
+* 그리디, 탐색, 동적프로그래밍 중심으로 
 
 # Goal 
+* 2일 1커밋 🔥
+* 한 문제당 1시간까지 고민해보고 풀이 찾아보기 🔥
+* 2021년 1월까지 누적 50문제 🔥
+* 2021년 2월까지 누적 100문제 🔥
+* 알고리즘 정리 🔥
