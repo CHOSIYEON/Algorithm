@@ -23,3 +23,4 @@ while N >= 2 and M >= 1 and N+M > K+3:
 
 # Print Result
 print(count)
+
